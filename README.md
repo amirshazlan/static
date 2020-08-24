@@ -1,4 +1,2 @@
 # static
-Project repo for Jenkins AWS Pipelines project as per Udacity Project
-
-This repository is for use in completing the Jenkins Pipeline on AWS project
+As part of Cloud DevOps Engineer Nanodegree Program, this project is to create a Jenkins Pipeline to deploy static website on S3
